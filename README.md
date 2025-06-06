@@ -1,4 +1,4 @@
-# P-1-Calculator
+# P-1_Calculator
 Author = Tejasv Nigam
 <br>
 This my first project and first time using Git-Hub 
