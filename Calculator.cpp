@@ -9,7 +9,6 @@ cout << "Enter first number: ";
     cin >> num1;
 cout << "Choose an operation (+, -, *, /) => ";
     cin >> op ;
-
     cout << "Enter second number: ";
     cin >> num2 ;
     switch (op) {
